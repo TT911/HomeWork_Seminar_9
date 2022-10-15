@@ -1,0 +1,15 @@
+D:\heap_edu\C_sem_9_hw\Objective_68\bin\Debug\net6.0\Objective_68.exe
+D:\heap_edu\C_sem_9_hw\Objective_68\bin\Debug\net6.0\Objective_68.deps.json
+D:\heap_edu\C_sem_9_hw\Objective_68\bin\Debug\net6.0\Objective_68.runtimeconfig.json
+D:\heap_edu\C_sem_9_hw\Objective_68\bin\Debug\net6.0\Objective_68.dll
+D:\heap_edu\C_sem_9_hw\Objective_68\bin\Debug\net6.0\Objective_68.pdb
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.csproj.AssemblyReference.cache
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.GeneratedMSBuildEditorConfig.editorconfig
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.AssemblyInfoInputs.cache
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.AssemblyInfo.cs
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.csproj.CoreCompileInputs.cache
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.dll
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\refint\Objective_68.dll
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.pdb
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\Objective_68.genruntimeconfig.cache
+D:\heap_edu\C_sem_9_hw\Objective_68\obj\Debug\net6.0\ref\Objective_68.dll
